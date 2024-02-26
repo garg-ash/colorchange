@@ -1,0 +1,23 @@
+.first{
+    height: 150px;
+    width: 180px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto;
+}
+body{
+    background-color: green;
+}
+.first p {
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+button{
+    background-color: aquamarine;
+    height: 50px;
+    width: 140px;
+    margin-left: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
